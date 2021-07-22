@@ -1,2 +1,0 @@
-To generate html file, run the following command in command script (shift+right click, open powershell window, and paste the following command)
-py -2 jemdoc.py index.jemdoc

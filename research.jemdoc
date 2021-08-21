@@ -3,12 +3,12 @@
 
 
 == Papers
-: {*On the Equivalence between Pre-transformed and
-Parity-check Monomial Codes*} *Y. Guo*, Z. Tang, B. Li\n
-International Symposium on Topics in Coding, ISTC 2021
+: {[EqPreParity.pdf *On the Equivalence between Pre-transformed and
+Parity-check Monomial Codes*] [EqPreParityPoster.pdf \[poster\]]} *Y. Guo*, Z. Tang, B. Li\n
+International Symposium on Topics in Coding, ISTC 2021 
 
-: {[SuccSolvShiftAdd.pdf *Successively Solvable Shift-Add Systems --- a Graphical Characterization*]} X. Cheng, X. Fu, *Y. Guo*, K. Shum, Y. Yang\n
-IEEE International Symposium on Information Theory, ISIT 2021
+: {[SuccSolvShiftAdd.pdf *Successively Solvable Shift-Add Systems --- a Graphical Characterization*] [SuccSolvShiftAddSlides.pdf \[slides]\]} X. Cheng, X. Fu, *Y. Guo*, K. Shum, Y. Yang\n
+IEEE International Symposium on Information Theory, ISIT 2021 
 
 : {[two_tone.pdf *Two-tone Shift-XOR Storage Codes*]} X. Fu, C. Wu, *Y. Guo*, Y. Yang\n
 IEEE International Symposium on Information Theory, ISIT 2021

@@ -1,0 +1,8 @@
+# jemdoc: menu{MENU}{moreabtme.html}, nofooter
+==Teaching
+
+*MAT3004 Abstract Algebra I*\n
+[tut1.pdf Tutorial 1]: Algebraic structures, Semigroups and monoids, Group elements as actions\n
+[tut2.pdf Tutorial 3]: Symmetric groups, Homomorphisms, Representations, Automorphisms\n
+[tut3.pdf Tutorial 5]: Group actions, Orbit-stabilizer theorem, Conjugations\n
+[tut4.pdf Tutorial 9]: Isomorphism theorems, Endomorphism ring, Group ring\n
